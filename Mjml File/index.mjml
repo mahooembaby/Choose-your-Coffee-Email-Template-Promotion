@@ -1,0 +1,61 @@
+<mjml>
+  <mj-body background-color="#ffffff">
+    <mj-section background-color="#cd8f56">
+      <mj-column width="30%">
+        <mj-image href="#" width="120px" src="https://i.ibb.co/gSfsDkW/logo-white.png"></mj-image>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-navbar>
+          <mj-navbar-link font-size="11px" color="#fff" text-transform="capitalize" href="#">home&nbsp; |</mj-navbar-link>
+          <mj-navbar-link font-size="11px" color="#fff" text-transform="capitalize" href="#">page&nbsp; |</mj-navbar-link>
+          <mj-navbar-link font-size="11px" color="#fff" text-transform="capitalize" href="#">about us&nbsp; |</mj-navbar-link>
+          <mj-navbar-link font-size="11px" color="#fff" text-transform="capitalize" href="#">contact us</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#11342d">
+      <mj-column>
+        <mj-text align="center" font-size="25px" padding-top="35px" text-transform="capitalize" color="#fff">choose your</mj-text>
+        <mj-text align="center" font-size="55px" padding-top="0px" text-transform="uppercase" color="#fff" font-weight="500">coffee</mj-text>
+        <mj-text align="center" font-size="14px" line-height="20px" text-transform="capitalize" color="#fff" font-weight="100" padding-bottom="50px">lorem ipsum is simply dummy text of the printing and type setting industry. lorem ipsum been the industry's standard dummy text ever since the 1500s. when an unknown printer took a gallery of type and scrambled.</mj-text>
+        <mj-image href="#" padding="0 0 0 0" src="https://i.ibb.co/nmcK16k/banner-pic.png"></mj-image>
+        <mj-text align="center" font-size="14px" padding-top="35px" text-transform="capitalize" color="#fff" font-weight="100" line-height="18px" padding-left="35px" padding-right="35px" padding-bottom="20px">lorem ipsum is simply dummy text and type setting industry. lorem ipsum been the industry's standard dummy text.</mj-text>
+        <mj-button href="#" font-size="16px" font-weight="200" background-color="#cd8f56" text-transform="capitalize" inner-padding="13px 60px" padding-bottom="35px" border-radius="5px">shop now</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#cd8f56">
+      <mj-column>
+        <mj-text align="center" padding-top="30px" color="#fff" line-height="18px" font-size="13px" font-weight="100" padding-left="35px" padding-right="35px" text-transform="capitalize">lorem ipsum is simply dummy text of the printing and type setting industry. lorem ipsum been the industry's standard dummy text ever since the 1500s.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#cd8f56" padding-top="0" padding-bottom="25px">
+      <mj-column>
+        <mj-button inner-padding="13px 50px" color="#cd8f56" background-color="#fff" font-size="16px" font-weight="200" text-transform="capitalize" border-radius="5px" href="#" width="90%" align="center">view more</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-button inner-padding="13px 50px" color="#fff" background-color="#11342d" font-size="16px" font-weight="200" text-transform="capitalize" border-radius="5px" href="#" width="90%" align="center">shop now</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#cd8f56" padding-top="0px" padding-bottom="0px">
+      <mj-column>
+        <mj-image padding-top="30px" padding-bottom="30px" src="https://i.ibb.co/qD6dmyy/picture-1.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="35px" padding-bottom="45px" background-color="#ffffff">
+      <mj-column>
+        <mj-text align="center" padding-bottom="25px">
+          <div>
+            <a href="#"><img src="https://i.ibb.co/J36cZzF/facebook.png" style="width:35px;margin-right:5px;" /></a>
+            <a href="#"><img src="https://i.ibb.co/jV8fctP/linkedin.png" style="width:35px;margin-right:5px;" /></a>
+            <a href="#"><img src="https://i.ibb.co/GdZ4Qkh/instagram.png" style="width:35px;margin-right:5px;" /></a>
+            <a href="#"><img src="https://i.ibb.co/gzwkBDz/x.png" style="width:35px;margin-right:5px;" /></a>
+          </div>
+        </mj-text>
+        <mj-text align="center" text-transform="uppercase" font-size="16px" font-weight="200">unsubscribe&nbsp;| privacy policy&nbsp;| web </mj-text>
+        <mj-text padding-top="0" font-size="13px" line-height="18px" font-weight="200" align="center">lorem ipsum is simply dummy text of the printing and type setting industry. lorem ipsum been the industry's standard dummy text ever since the 1500s.</mj-text>
+        <mj-divider border-color="#c6c6c6" border-width="2px" border-style="solid" padding-bottom="35px" padding-top="25px"></mj-divider>
+        <mj-image href="#" src="https://i.ibb.co/G3fQtyJ/made-logo.png" width="120px"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
